@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Raw data
+data/raw/
+data/processed/*.csv
+.env
+.ipynb_checkpoints/
